@@ -1,6 +1,6 @@
 # textual-web
 
-Textual Web publishes [Textual](https://github.com/Textualize/textual) apps and terminals on the web.
+Textual Web publishes [Textual](https://github.com/Unity-Billal-mesloub/textual) apps and terminals on the web.
 
 Currently in a beta phase &mdash; help us test!
 
@@ -29,7 +29,7 @@ textual-web
 
 You should see something like the following:
 
-<img width="1002" alt="Screenshot 2023-09-06 at 10 11 07" src="https://github.com/Textualize/textual-web/assets/554369/b8c6b043-57c8-4781-addf-165696f3d404">
+<img width="1002" alt="Screenshot 2023-09-06 at 10 11 07" src="https://github.com/Unity-Billal-mesloub/textual-web/assets/554369/b8c6b043-57c8-4781-addf-165696f3d404">
 
 
 Click the blue links to launch the example Textual apps (you may need to hold cmd or ctrl on some terminals).
@@ -37,9 +37,9 @@ Or copy the link to your browser if your terminal doesn't support links.
 
 You should see something like this in your browser:
 
-<img width="1058" alt="Screenshot 2023-08-22 at 09 41 35" src="https://github.com/Textualize/textual-web/assets/554369/93f70177-7b3c-4840-8265-4d8ec96c5ebc">
+<img width="1058" alt="Screenshot 2023-08-22 at 09 41 35" src="https://github.com/Unity-Billal-mesloub/textual-web/assets/554369/93f70177-7b3c-4840-8265-4d8ec96c5ebc">
 
-<img width="1188" alt="Screenshot 2023-09-06 at 10 10 01" src="https://github.com/Textualize/textual-web/assets/554369/eaed134a-5fcc-40f6-8252-55cf93c84d60">
+<img width="1188" alt="Screenshot 2023-09-06 at 10 10 01" src="https://github.com/Unity-Billal-mesloub/textual-web/assets/554369/eaed134a-5fcc-40f6-8252-55cf93c84d60">
 
 These Textual apps are running on your machine, but have public URLs.
 You could send the URLs to anyone with internet access, and they would see the same thing.
@@ -57,7 +57,7 @@ textual-web -t
 This will generate another URL, which will present you with your terminal in your browser:
 
 
-<img width="1058" alt="Screenshot 2023-08-22 at 09 42 23" src="https://github.com/Textualize/textual-web/assets/554369/99b10778-2183-4cce-9154-052a80cf6c34">
+<img width="1058" alt="Screenshot 2023-08-22 at 09 42 23" src="https://github.com/Unity-Billal-mesloub/textual-web/assets/554369/99b10778-2183-4cce-9154-052a80cf6c34">
 
 
 When you serve a terminal in this way it will generate a random public URL.
@@ -68,7 +68,7 @@ When you serve a terminal in this way it will generate a random public URL.
 
 ## Configuration
 
-Textual Web can serve multiple [Textual](https://github.com/Textualize/textual) apps and terminals (as many as you like).
+Textual Web can serve multiple [Textual](https://github.com/Unity-Billal-mesloub/textual) apps and terminals (as many as you like).
 
 To demonstrate this, [install Textual](https://textual.textualize.io/getting_started/) and clone the repository.
 Navigate to the `textual/examples` directory and add the following TOML file:
@@ -91,13 +91,13 @@ textual-web --config serve.toml
 You should now get 3 links, one for each of the sections in the configuration:
 
 
-<img width="1145" alt="Screenshot 2023-08-22 at 10 37 59" src="https://github.com/Textualize/textual-web/assets/554369/81b966de-e95a-4672-83b9-b95c2029b942">
+<img width="1145" alt="Screenshot 2023-08-22 at 10 37 59" src="https://github.com/Unity-Billal-mesloub/textual-web/assets/554369/81b966de-e95a-4672-83b9-b95c2029b942">
 
 
 Click any of the links to serve the respective app:
 
 
-<img width="1131" alt="Screenshot 2023-08-22 at 10 42 25" src="https://github.com/Textualize/textual-web/assets/554369/d25f3061-bc98-48b9-b4d0-1bab61d401b1">
+<img width="1131" alt="Screenshot 2023-08-22 at 10 42 25" src="https://github.com/Unity-Billal-mesloub/textual-web/assets/554369/d25f3061-bc98-48b9-b4d0-1bab61d401b1">
 
 ### Slugs
 
@@ -146,7 +146,7 @@ textual-web --signup
 This will bring up a dialog in your terminal that looks something like this:
 
 
-<img width="1145" alt="Screenshot 2023-08-22 at 09 43 03" src="https://github.com/Textualize/textual-web/assets/554369/9601eee1-7733-4e8a-a401-78402cfd1cca">
+<img width="1145" alt="Screenshot 2023-08-22 at 09 43 03" src="https://github.com/Unity-Billal-mesloub/textual-web/assets/554369/9601eee1-7733-4e8a-a401-78402cfd1cca">
 
 
 If you fill in that dialog, it will create an account for you and generate a file called "ganglion.toml".
